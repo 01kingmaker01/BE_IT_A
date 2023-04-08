@@ -3,7 +3,6 @@
 # dependencies
 /node_modules
 sanitybackend/node_modules
-oldSanity/node_modules
 /.pnp
 .pnp.js
 

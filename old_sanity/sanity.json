@@ -4,7 +4,7 @@
     "name": "sanity_backend"
   },
   "api": {
-    "projectId": "tp4ln3j8",
+    "projectId": "f89k4t1n",
     "dataset": "production"
   },
   "plugins": [
@@ -15,9 +15,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [
